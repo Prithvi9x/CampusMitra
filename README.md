@@ -186,7 +186,7 @@ This project is created for educational purposes as part of the Smart India Hack
 
 ## 👥 Team
 
-Developed by the CampusMitra team for SIH 2024.
+Developed by team InnoVerse for SIH 2025.
 
 ---
 
