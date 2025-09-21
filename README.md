@@ -182,7 +182,7 @@ src/
 
 ## 📄 License
 
-This project is created for educational purposes as part of the Smart India Hackathon 2024.
+This project is created for educational purposes as part of the Smart India Hackathon 2025.
 
 ## 👥 Team
 
